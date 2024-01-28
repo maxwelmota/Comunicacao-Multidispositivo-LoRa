@@ -14,7 +14,7 @@ O sistema consiste em um dispositivo mestre que envia perguntas ou comandos para
 ## Hardware
 
 - Módulo LoRa EBYTE E220-900T22D.
-- Microcontroladores compatíveis com Arduino (ou similares) para dispositivos mestre e secundários.
+- Microcontroladores compatíveis com Arduino (ou similares), ESP32, STM32, etc para dispositivos mestre e secundários.
 
 ## Configuração
 
